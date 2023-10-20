@@ -8,4 +8,4 @@ Plano de Teste
 2. Validar a seleção do RadioButton para os gêneros Feminino, Masculino e Não informado.
 3. Validar e desmarcar a seleção do checkbox "Receber e-amails promocionais"
 4. Validar e desmarcar a seleção do checkbox "compartilhar meus dados com parceiros para ter conteúdos personalizados, veja como funciona."
-5. Validar o clique no botão de "Criar cadastro" e ver a tela do Capcha.
+5. Validar o clique no botão de "Criar cadastro".
